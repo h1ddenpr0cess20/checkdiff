@@ -1,6 +1,6 @@
 # Diffcheck
 
-A minimal React + Vite project that demonstrates a clean setup with ESLint rules and Hot Module Replacement (HMR).
+A simple, private diff checker
 
 ## Installation
 

@@ -1,4 +1,4 @@
-# Diffcheck
+# Checkdiff
 
 A simple, private diff checker
 
